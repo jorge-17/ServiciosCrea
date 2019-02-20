@@ -1,0 +1,14 @@
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\bin\Debug\netcoreapp2.1\registroVisitantes.deps.json
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\bin\Debug\netcoreapp2.1\registroVisitantes.runtimeconfig.json
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\bin\Debug\netcoreapp2.1\registroVisitantes.runtimeconfig.dev.json
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\bin\Debug\netcoreapp2.1\registroVisitantes.dll
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\bin\Debug\netcoreapp2.1\registroVisitantes.pdb
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.csprojAssemblyReference.cache
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.csproj.CoreCompileInputs.cache
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.RazorAssemblyInfo.cache
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.RazorAssemblyInfo.cs
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.AssemblyInfoInputs.cache
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.AssemblyInfo.cs
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.RazorTargetAssemblyInfo.cache
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.dll
+C:\Users\jrodarte\Source\Repos\registroVisitantes\registroVisitantes\obj\Debug\netcoreapp2.1\registroVisitantes.pdb
