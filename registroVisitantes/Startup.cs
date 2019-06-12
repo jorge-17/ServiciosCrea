@@ -28,7 +28,13 @@ namespace registroVisitantes
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<rVisitasContext>(opt => opt.UseInMemoryDatabase("rVisitasList"));
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowMyOrigin",
+                builder => builder.AllowAnyOrigin());
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +50,7 @@ namespace registroVisitantes
             }
 
             app.UseHttpsRedirection();
+            app.UseCors("AllowMyOrigin");
             app.UseMvc();
         }
     }
